@@ -16,7 +16,7 @@ Karayolu projelerinde etüt çalışmalarına yardımcı olmak amaçlı; yol yap
 + Yol orta mesafesi; Proje orta mesafe; Sorta
 + Yol banket mesafesi; Proje banket mesafe; Sbanket
 + Dever; Yolun enine eğimi
-+ Fark_Eksen / Orta / Banket; Proje terasman kotlarından *Eksen* / *Orta* / *Banket* olmak üzere, arazide yapılan nivelman sonrası kot değerleri arasındaki fark değerleridir.
++ Fark_Eksen/Orta/Banket; Proje terasman kotlarından *Eksen*/*Orta*/*Banket* olmak üzere, arazide yapılan nivelman sonrası kot değerleri arasındaki fark değerleridir.
 
 Yukarıdaki değerler girilir.
 
